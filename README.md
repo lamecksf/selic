@@ -1,5 +1,6 @@
 # selic
 Selic Calculator
+Starwars: http://www.kammerl.de/ascii/AsciiSignature.php
 
 <pre>
    _______. _______  __       __    ______ 
@@ -14,7 +15,7 @@ Selic Calculator
 
 <hr>
 
-Selic Calculator é uma experiencia com linguagem python, escrita para ser executado em terminal linux, para calcular a selic sobre o valor estimado em tempo estimado.
+Selic Calculator é uma experiencia com linguagem python, escrita para ser executado em terminal linux, para calcular a selic sobre o valor estimado no tempo definido. Uma estimativa de investimentos sobre o valor acumulado (juros em cima de juros).
 
 # INSTRUÇÃO
 
