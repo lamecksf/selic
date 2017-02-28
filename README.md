@@ -63,5 +63,6 @@ Variaveis de ambiente permanentes:<br>
 #SUPORTE
 
 V0.1:
+O tempo e a selic estão transformados em valores mensais. É necessário confirmar a selic anual e divid-la para o tempo de cálculo 
 Esta verso suporta apenas a moeda brasileira atual - real (R$)
 A verso do retorno  português-br
