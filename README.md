@@ -60,5 +60,8 @@ Variaveis de ambiente permanentes:<br>
 
 <hr>
 
+#SUPORTE
 
-Só diversão.
+V0.1:
+Esta verso suporta apenas a moeda brasileira atual - real (R$)
+A verso do retorno  português-br
