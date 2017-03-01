@@ -27,7 +27,7 @@ Selic Calculator é uma experiencia com linguagem python, escrita para ser execu
 
 #Para inserir na varivel de ambiente:
 1. Copie/mova para a pasta selic [crie mkdir /usr/bin/selic] em /usr/bin/
-2. Insira na variável $PATH : export PATH=$PATH:/usr/bin/nix/
+2. Insira na variável $PATH : export PATH=$PATH:/usr/bin/selic/
 3. Certifique-se que foi inserida: echo $PATH
 4. Teste em qualquer diretrio digitando: ./selic.py -h ou python selic.py --help
 
@@ -65,4 +65,4 @@ Variaveis de ambiente permanentes:<br>
 V0.1:
 <p>O tempo e a selic estão transformados em valores mensais. É necessário confirmar a selic anual e divid-la para o tempo de cálculo </p>
 <p>Esta verso suporta apenas a moeda brasileira atual - real (R$)</p>
-<p>A verso do retorno  português-br</p>
+<p>A versão do retorno esta em português-br</p>
