@@ -1,15 +1,10 @@
 
 version = 'sel 0.1'
 
-<<<<<<< HEAD
-idef helper():
-	hp = '\n'+'%24s'%'Selic Calculator '+version+' (c) 2017 Lameck\n'
-	hp += '%37s'%'https://github.com/lamecksf/selic\n\n'
-=======
 def helper():
 	hp = '\n'+'%24s'%'Selic Calculator '+version+' (c) 2017 Lameck\n'
-	hp += '%37s'%'https://github.com/lamecksf/\n\n'
->>>>>>> 344871c552e45c5ba786e42b5f0223f5eb47d97f
+	hp += '%37s'%'https://github.com/lamecksf/selic\n\n'
+
 	hp += '%39s'%'usage: python selic.py [options]'
 
 	hp += '\n\n'+'%50s'%'##########################################\n'
